@@ -1,0 +1,30 @@
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+    padding: 3rem;
+    background: #F0F0F0;
+    align-items: center;
+  }
+  
+  .developed-by-text {
+    font-size: 0.75rem;
+  }
+  
+  .developed-by-text span {
+    font-size: 0.75rem;
+    font-weight: 700;
+  }
+  
+  .logo-year {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-direction: column;
+  }
+  
+  .view-github {
+    font-size: 0.9rem;
+    text-decoration: none;
+    color: #1A1A1A;
+  }

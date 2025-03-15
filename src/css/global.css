@@ -1,0 +1,25 @@
+.btn-dark {
+    background-color: #000;
+    color: white;
+    padding: 0.6rem 1rem;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-dark:hover {
+    background-color: #333;
+  }
+  
+  .btn-light {
+    background-color: #fff;
+    color: black;
+    padding: 0.6rem 1rem;
+    border: 1px solid #000;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .btn-light:hover {
+    background-color: #f0f0f0;
+  }
