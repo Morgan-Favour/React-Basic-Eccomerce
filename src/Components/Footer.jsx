@@ -12,7 +12,7 @@ function Footer() {
                 <p>2025</p>
             </div>
             <div>
-                <a className='view-github' href="">View Github</a>
+                <a className='See Code' href="https://github.com/Morgan-Favour/React-Basic-Eccomerce.git">View Github</a>
             </div>
         </div>
     )
