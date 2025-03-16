@@ -1,7 +1,7 @@
 import heroImage from '../assets/images/hero-image.png'
-import "../css/hero.css"
-import "../css/global.css"
-import "../css/responsive.css"
+// import "../css/hero.css"
+// import "../css/global.css"
+// import "../css/responsive.css"
 
 function Hero() {
     return (

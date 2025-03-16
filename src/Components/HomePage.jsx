@@ -6,9 +6,9 @@ import Hero from './Hero';
 import NavBar from './NavBar';
 import RecommendedProducts from './RecommendedProducts';
 import recommendedProducts from '../data/recommendedProducts.js';
-import "../css/products.css"
-import "../css/global.css"
-import "../css/responsive.css"
+// import "../css/products.css"
+// import "../css/global.css"
+// import "../css/responsive.css"
 
 
 function HomePage() {

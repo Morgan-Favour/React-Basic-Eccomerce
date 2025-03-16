@@ -1,8 +1,8 @@
 import React from 'react';
 import companyLogo from "../assets/images/company-logo.png";
-import "../css/navbar.css";
-import "../css/global.css";
-import "../css/responsive.css";
+// import "../css/navbar.css";
+// import "../css/global.css";
+// import "../css/responsive.css";
 
 function NavBar() {
   return (

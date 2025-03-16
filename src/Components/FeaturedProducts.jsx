@@ -1,7 +1,7 @@
 import React from 'react';
-import "../css/products.css";
-import "../css/global.css";
-import "../css/responsive.css"
+// import "../css/products.css";
+// import "../css/global.css";
+// import "../css/responsive.css"
 
 function FeaturedProducts(props) {
   return (
